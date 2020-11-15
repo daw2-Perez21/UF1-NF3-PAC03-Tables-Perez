@@ -1,0 +1,31 @@
+<?php
+echo "Create a list of the 10 most important concepts about what you’ve learned in this  document";
+echo "<br>";
+echo "1-Contar las paliculas";
+echo "<br>";
+echo "2-Start Apache";
+echo "<br>";
+echo "3-Movie database";
+echo "<br>";
+echo "4-Create PHP link";
+echo "<br>";
+echo "5-poner color a las celdas";
+echo "<br>";
+echo "6-insertar links";
+echo "<br>";
+echo "7-Insertar reviews";
+echo "<br>";
+echo "8-Insertar datos en tabla";
+echo "<br>";
+echo "9-Hacer una media";
+echo "<br>";
+echo "10-poner una imagen";
+echo "<br>";
+echo "Qualifies the document:4";
+echo "<br>";
+echo "Teacher's explanation:5";
+echo "<br>";
+echo "Explain an improvement";
+echo "<br>";
+echo "Esta practica ha sido la peor ya que habia un examen delante y no habia tiempo para acabar ademas de que era muy complicada";
+?>
